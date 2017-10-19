@@ -1,0 +1,22 @@
+h1{
+  outline: 1px solid red;
+  text-align: center;
+}
+.caja{
+
+/*out*line: 1px solid red*/
+
+  width: 300px;
+  padding: 20px;
+  border:1px solid #999;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 15px;
+}
+img{
+  outline: 1px solid red;
+  max-width: 100%;
+}
+p{
+  outline: 1px solid orange;
+}
